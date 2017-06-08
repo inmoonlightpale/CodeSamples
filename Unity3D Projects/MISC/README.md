@@ -1,0 +1,1 @@
+No context, at the risk of your own sanity, just some code.
