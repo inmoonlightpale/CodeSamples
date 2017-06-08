@@ -1,0 +1,1 @@
+Sample selection that shows the two main components of a UI tweening system I've been using for the past few years. It's fast, easy to set up, and once you get in the flow of things, allows you to easily modify masses of window behaviours in seconds. I like it.
